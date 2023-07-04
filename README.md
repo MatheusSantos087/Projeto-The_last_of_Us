@@ -3,7 +3,7 @@
 <br />
 <div align="center">
   <a href="https://github.com/github_username/repo_name">
-    <img src="./SRC/imagens/Example.jpeg" alt="Logo" width="80" height="80">
+    <img src="./SRC/imagens/the-last-of-us-title-card.gif" alt="Logo" width="220" height="120">
   </a>
 
 <h3 align="center">The last of Us</h3>
