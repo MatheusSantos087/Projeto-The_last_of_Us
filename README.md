@@ -11,10 +11,10 @@
   <p align="center">
     Carrossel de Imagens The last of Us
     <br />
-    <a href="https://github.com/MatheusSantos087/Projeto-Pokedex/blob/main/index.html"><strong>Explorar a documentação »</strong></a>
+    <a href="https://github.com/MatheusSantos087/Projeto-The_last_of_Us/blob/main/index.html"><strong>Explorar a documentação »</strong></a>
     <br />
     <br />
-    <a href="https://matheussantos087.github.io/Projeto-Pokedex/">Ver Demonstração</a>
+    <a href="https://matheussantos087.github.io/Projeto-The_last_of_Us/">Ver Demonstração</a>
     ·
     <a href="https://github.com/MatheusSantos087/Projeto-The_last_of_Us/issues">Relatar Bug</a>
     ·
